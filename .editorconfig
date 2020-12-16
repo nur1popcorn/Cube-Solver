@@ -1,0 +1,27 @@
+#   This file is part of Cube-Solver (https://github.com/nur1popcorn/Cube-Solver).
+#   Copyright (C) Keanu Poeschko
+#
+#   Cube-Solver is free software: you can redistribute it and/or modify
+#   it under the terms of the GNU General Public License as published by
+#   the Free Software Foundation, version 3.
+#
+#   Cube-Solver is distributed in the hope that it will be useful,
+#   but WITHOUT ANY WARRANTY; without even the implied warranty of
+#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#   GNU General Public License for more details.
+#
+#   You should have received a copy of the GNU General Public License
+#   along with Cube-Solver.  If not, see <https://www.gnu.org/licenses/>.
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+
+end_of_line = lf
+insert_final_newline = true
+
+charset = utf-8
+
+trim_trailing_whitespace = true
